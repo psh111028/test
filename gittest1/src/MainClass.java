@@ -35,7 +35,7 @@ public class MainClass extends JFrame implements ActionListener{
 	JTextArea jta1 = new JTextArea(7, 20);
 	
 	MainClass() {
-		super("프로그래밍언어활용평가");
+		super("프로그래밍언어활11용평가");
 		JPanel jpn1 = new JPanel(new FlowLayout(FlowLayout.CENTER));
 		JPanel jpn2 = new JPanel(new FlowLayout(FlowLayout.CENTER));
 		JPanel jpn3 = new JPanel(new BorderLayout());
